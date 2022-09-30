@@ -1,0 +1,49 @@
+.image1{
+    width: 100px;
+  height: 100px;
+  background: red;
+  border-radius: 50%
+}
+.image2{
+    width: 100px;
+  height: 100px;
+  background: blue;
+}
+.image3{
+    width: 200px;
+  height: 100px;
+  background: green;
+}
+.image4{
+  width: 0;
+  height: 0;
+  border-left: 50px solid transparent;
+  border-right: 50px solid transparent;
+  border-bottom: 100px solid rgb(163, 247, 27);
+}
+.image5{
+    width: 150px;
+      height: 100px;
+      transform: skew(20deg);
+      background: red;
+}
+input{
+    padding: 20px;
+    
+}
+h1{
+    text-align: center;
+    font-size: 40px;
+    color: blanchedalmond;
+}
+body{
+   
+   
+    text-align: center;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSvQld-jczvME-vQEYLo3YIpLZCPJGwCRzMw&usqp=CAU");
+   
+} 
+#c1{
+  margin: 40px;
+  
+}
